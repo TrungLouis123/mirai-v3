@@ -16,12 +16,27 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Mirai-V3-Unofficial",
+    "BOTNAME": "Mirai-V3",
     "PREFIX": "!",
-    "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
-    "NDH": [
-        "502275138"
+    "BOXADMIN": "",
+    "ADMINBOT": [
+        "100081293425403"
     ],
-    "version": "3.0.0"
+    "NDH": [
+        "100081293425403"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 120
+        }
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    }
 }
