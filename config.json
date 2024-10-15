@@ -37,6 +37,6 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 500
+        "rewardCoin": 10000
     }
 }
